@@ -28,12 +28,7 @@
 <p align="left">
   <!-- Statistiche e Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=simofb21&theme=radial" alt="Simone's GitHub Streak" height="150" />
-  <!-- Linguaggi più usati (Server alternativo) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=simofb21&show_icons=true&theme=radial" alt="Simone's GitHub Stats" height="150" />
-  
-  <!-- Linguaggi più usati (URL corretto e senza errori) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simofb21&layout=compact&theme=radial&hide_progress=true" alt="Top Languages" height="150" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=simofb21&theme=radial" alt="Simone's GitHub Streak" height="150" />
 
 ---
 
