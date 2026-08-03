@@ -24,13 +24,6 @@
 ---
 
 ### GitHub Stats
-
-<p align="left">
-  <!-- Statistiche e Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simofb21&theme=radial" alt="Simone's GitHub Streak" height="150" />
-<img src="https://github-readme-tech-stack.vercel.app/api/top-langs/?username=simofb21&layout=compact&theme=radial" alt="Top Languages" height="150" />---
-##  Linguaggi utilizzati
-
 | Linguaggio | Percentuale |
 |------------|-------------|
 | Vue | 41.66% |
