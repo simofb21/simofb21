@@ -29,7 +29,18 @@
   <!-- Statistiche e Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=simofb21&theme=radial" alt="Simone's GitHub Streak" height="150" />
 <img src="https://github-readme-tech-stack.vercel.app/api/top-langs/?username=simofb21&layout=compact&theme=radial" alt="Top Languages" height="150" />---
+##  Linguaggi utilizzati
 
+| Linguaggio | Percentuale |
+|------------|-------------|
+| Vue | 41.66% |
+| HTML | 19.54% |
+| TypeScript | 16.64% |
+| Java | 7.69% |
+| CSS | 6.55% |
+| Python | 4.39% |
+| JavaScript | 2.92% |
+| C++ | 0.61% |
 ###  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-fusar-bassini-7407003b4)
