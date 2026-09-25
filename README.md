@@ -1,7 +1,7 @@
 #  Hi there, I'm Simone!
 
->  **18-year-old Computer Science student** from Crema, Italy.  
->  Future **Computer Science student @ [Unimi](https://www.unimi.it/)**.
+>  **19-year-old Computer Science student** from Crema, Italy.  
+>  **Computer Science student @ [Unimi](https://www.unimi.it/)**.
 
 ---
 
